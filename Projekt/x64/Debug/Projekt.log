@@ -1,0 +1,6 @@
+﻿  my_data.cpp
+C:\Users\Michał\Documents\Języki i Paradygmaty Programowania\Projekt 2\Projekt\my_data.cpp(116,7): warning C4101: 'str': unreferenced local variable
+  my_interface.cpp
+  my_stack.cpp
+  Generating Code...
+  Projekt.vcxproj -> C:\Users\Michał\Documents\Języki i Paradygmaty Programowania\Projekt 2\x64\Debug\Projekt.exe
