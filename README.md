@@ -12,5 +12,6 @@ program (finish).
 ![Image of data structure](img/stack_2.png)
 
 The structure used in the project is MY_STUDENT contains the student's name
-(*char), year of birth(size_t) and field of study(enum).
+ (*char), year of birth (size_t) and field of study (enum).
 
+![Gif of using interface](img/stack_3.gif)
